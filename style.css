@@ -1,0 +1,70 @@
+.main1{
+    background-color: #022D20;
+    height: 600px;
+
+}
+
+.main2{
+height: 600px;
+}
+
+#main2section{
+    margin-top: 15px;
+}
+
+.image{
+width: 300px;
+height: 400px;
+}
+
+.main-title{
+    color: white;
+    margin-top: 70px;
+    margin-left: 130px;
+    font-family: 'Inconsolata';
+}
+
+.main-para{
+    margin-left: 100px;
+    color: white;
+    height: 300px;
+    margin-top: 120px;
+    font-family: 'Kalnia', serif;
+    width: 450px;
+
+}
+
+.btn{
+    margin-top: 30px;    
+}
+
+.btn2{
+    &:hover{
+        background-color: red;
+    }
+}
+
+.bi{
+    color: white;
+    margin: 10px;
+
+}
+
+.social-icon{
+    margin-left: 100px;
+}
+
+.spam1{
+    color: #CC7C27;
+}
+
+
+.stack-icon{
+    color: #CC7C27;
+    margin: 10px;
+    font-size: 40px;
+    
+}
+
+
+
